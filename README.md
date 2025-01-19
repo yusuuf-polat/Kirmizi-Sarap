@@ -13,26 +13,14 @@ Rastgele Orman Regresyonu (Random Forest): Özellikler arasındaki etkileşimler
 K-En Yakın Komşu (KNN): Basit ve etkili bir algoritma olarak uygulanmıştır.
 Veriler, modelin performansını artırmak için standartlaştırılmış ve eğitim/test olarak ayrılmıştır.
 
-Model Performansı
-Eğitim ve test verileri üzerinde yapılan değerlendirmeler sonucunda:
-
-Ortalama Mutlak Hata (MAE): 0.59
-Kök Ortalama Kare Hatası (RMSE): 0.74
-R² Skoru: 0.91
-Bu sonuçlar, modelin yüksek doğrulukla tahmin yapabildiğini göstermektedir.
-
 Sonuçlar ve Öneriler
 Model, şarap kalitesini tahmin etmede başarılı bir performans sergilemiştir.
 Veri seti, bazı sınıflarda dengesiz dağılım göstermektedir. Daha dengeli ve geniş veri setleriyle modelin genelleme yeteneği artırılabilir.
 Çeşitli hiperparametre optimizasyonları ile model doğruluğu daha da artırılabilir.
+
 Nasıl Kullanılır?
 Colab Not Defteri: Proje kodlarını çalıştırmak için Colab bağlantısı kullanılabilir.
 Gereksinimler:
 Python 3.x
 Gerekli kütüphaneler: NumPy, Pandas, Scikit-learn, Matplotlib
-Kaynaklar
-UCI Machine Learning Repository
-İlgili akademik makaleler ve projeler
-Kullanılan Colab not defteri
-Katkılar
-Bu projeye katkıda bulunmak isterseniz, lütfen bir Pull Request gönderin veya proje ile ilgili sorunları Issue sekmesinde bildirin.
+
